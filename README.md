@@ -11,3 +11,6 @@ en la función ngOnInit(), editar:
     source.subscribe(val => this.loadAvailabilityForAll("---", url))
     
   
+## Correr el script
+
+Instalar angular (?, npm, y correrlo con 'ng serve'
