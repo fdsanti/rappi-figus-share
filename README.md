@@ -13,4 +13,4 @@ en la función ngOnInit(), editar:
   
 ## Correr el script
 
-Instalar angular (?, npm, y correrlo con 'ng serve'
+Instalar angular, npm, y correrlo con 'ng serve'
